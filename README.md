@@ -1,3 +1,14 @@
+# Employees
+Этот проект представляет собой простое React-приложение для управления списком сотрудников в компании. Пользователи могут добавлять новых сотрудников с указанием их имени и зарплаты, удалять сотрудников и фильтровать их по различным критериям, таким как получение повышения или зарплата выше определенного уровня. Приложение демонстрирует использование состояния и пропсов в React, а также обработку событий и обновление состояния.
+
+## Просмотр сайта
+Нажмите на изображение ниже, чтобы посмотреть сайт! Или используйте [ссылку](https://dariasdemidova.github.io/employees/).
+
+
+[<img width="1437" alt="Снимок экрана 2024-06-20 в 23 50 38" src="https://github.com/dariaSDemidova/employees/assets/95710690/74b0ad3e-b6e4-492f-9a59-faf28555afd1">](https://dariasdemidova.github.io/employees/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
